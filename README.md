@@ -9,7 +9,11 @@ subtraction is calculated by subtracting b from a.
 multiplication is calculated by multiplying a and b.
 division is calculated by dividing a by b.
 Finally, it prints the results of these operations.
+
 --------------------------------------------------------------------------------------------------------------------
+
+
+
 # Task 2: Personalized Greeting Program
 
 This Python program takes a user's first name and last name as input, concatenates them into a full name, and prints a personalized greeting message.
